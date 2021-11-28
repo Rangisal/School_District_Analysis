@@ -32,7 +32,6 @@ Eventhough the percentage of math, reading and overall decreased the avaerage of
 
 ### Scores by school size
 
-![image](https://user-images.githubusercontent.com/93173498/143787977-a50a9963-8075-4df5-8261-0f625e8ec9ee.png)
 
 ### Scores by school type
 
