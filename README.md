@@ -5,6 +5,8 @@ Analysing the data of the district school based on the performance on the math a
 Please refer the following links to refer more details on the analysis including the code and the resources.
 https://github.com/Rangisal/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb
 
+https://github.com/Rangisal/School_District_Analysis/tree/main/Resources
+
 # Results 
 ## How is the district summary affected?
 Because of academic dishonesty the scores from grade nine have been replaced with NaNs and the new summary is as follows. 
