@@ -21,7 +21,7 @@ The math percentage, reading percentage and overall percentage significanlty dro
 
 ## How does replacing the ninth-grade scores affect the following:
 ### Math and reading scores by grade
-
+Eventhough the percentage of math, reading and overall decreased the avaerage of math, reading and overall increased. 
 
 ### Scores by school spending
 
