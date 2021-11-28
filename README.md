@@ -21,6 +21,9 @@ The math percentage, reading percentage and overall percentage significanlty dro
 ## How does replacing the ninth-grade scores affect the following:
 ### Math and reading scores by grade
 ### Scores by school spending
+
+![image](https://user-images.githubusercontent.com/93173498/143787954-d6a62758-85ef-4bdd-b5da-1a28d490f989.png)
+
 ### Scores by school size
 ### Scores by school type
 # Summary: 
