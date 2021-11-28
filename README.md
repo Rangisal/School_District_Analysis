@@ -33,7 +33,7 @@ There is a decrease in the last two ranges in the passing math %, passing readin
 ![image](https://user-images.githubusercontent.com/93173498/143787954-d6a62758-85ef-4bdd-b5da-1a28d490f989.png)
 
 ### Scores by school size
-
+The passing math %, passing reading % and passing overall % had been decreased in the medium size of the schools.
 ![image](https://user-images.githubusercontent.com/93173498/143788556-d7ea3939-4acf-4910-a81f-8af38189f166.png)
 
 
