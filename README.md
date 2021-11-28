@@ -6,6 +6,9 @@ Please refer the following links to refer more details on the analysis including
 
 # Results 
 ## How is the district summary affected?
+Because of academic dishonesty the scores from grade nine have been replaced with NaNs and the new summary is as follows. 
+There is no significant difference comparing to the previous summary as noted below. 
+
 
 ## How is the school summary affected?
 ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
