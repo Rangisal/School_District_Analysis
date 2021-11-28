@@ -45,4 +45,4 @@ The charter schools passing math% , passing reading % and overall passing % had 
 ![image](https://user-images.githubusercontent.com/93173498/143788002-a2649dc3-116e-43be-be47-a0b1f788455c.png)
 
 # Summary: 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+As per the above analysis it notices that replacing the 9th garde scores to NaNs make impact on passing percentage of charter schools, medium size schools and last two quartiles in the spending budget schools. 
