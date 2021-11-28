@@ -28,6 +28,8 @@ Eventhough the percentage of math, reading and overall decreased the avaerage of
 
 ### Scores by school spending
 
+There is a decrease in the last two ranges in the passing math %, passing reading percentage% and passing overall %
+
 ![image](https://user-images.githubusercontent.com/93173498/143787954-d6a62758-85ef-4bdd-b5da-1a28d490f989.png)
 
 ### Scores by school size
