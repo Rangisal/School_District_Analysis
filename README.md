@@ -25,6 +25,9 @@ The math percentage, reading percentage and overall percentage significanlty dro
 ![image](https://user-images.githubusercontent.com/93173498/143787954-d6a62758-85ef-4bdd-b5da-1a28d490f989.png)
 
 ### Scores by school size
+
+![image](https://user-images.githubusercontent.com/93173498/143787977-a50a9963-8075-4df5-8261-0f625e8ec9ee.png)
+
 ### Scores by school type
 # Summary: 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
