@@ -17,7 +17,7 @@ There is no significant difference comparing to the previous summary as noted be
 ![image](https://user-images.githubusercontent.com/93173498/143787661-11833c1b-f8c4-479a-bc13-4e3beeda9c37.png)
 
 ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-The math percentage, reading percentage and overall percentage significanlty dropped down to 66.911315	69.663609	65.076453 respectively. 
+The math percentage, reading percentage and overall percentage significanlty dropped down to 66.91131 % 69.663609 %65.076453% respectively. 
 ## How does replacing the ninth-grade scores affect the following:
 ### Math and reading scores by grade
 ### Scores by school spending
